@@ -17,6 +17,14 @@
 
 <resources>
 
-    <style name="AppTheme" parent="android:Theme.Light" />
+	<string-array name="colors">
+	   <item>@string/red</item>
+	   <item>@string/green</item>
+	   <item>@string/blue</item>
+	   <item>@string/purple</item>
+	   <item>@string/orange</item>
+	   <item>@string/white</item>
+	   <item>@string/black</item>
+	</string-array>
 
 </resources>
