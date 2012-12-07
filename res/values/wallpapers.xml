@@ -17,34 +17,76 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>christmas_1</item>
+        <item>christmas_2</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
-        <item>wallpaper_4</item>
-        <item>wallpaper_5</item>
-        <item>wallpaper_6</item>
-        <item>wallpaper_7</item>
-        <item>wallpaper_8</item>
-        <item>wallpaper_9</item>
-        <item>wallpaper_10</item>
-        <item>wallpaper_11</item>
-        <item>wallpaper_12</item>
-        <item>wallpaper_13</item>
+        <item>wall_1</item>
+        <item>wall_2</item>
+        <item>wall_3</item>
+        <item>wall_4</item>
+        <item>wall_5</item>
+        <item>wall_6</item>
+        <item>wall_7</item>
+        <item>wall_8</item>
+        <item>wall_9</item>
+        <item>wall_10</item>
+        <item>wall_11</item>
+        <item>wall_12</item>
+        <item>wall_13</item>
+        <item>wall_14</item>
+        <item>wall_15</item>
+        <item>wall_16</item>
+        <item>wall_17</item>
+        <item>wall_18</item>
+        <item>wall_19</item>
+        <item>wall_20</item>
+        <item>wall_21</item>
+        <item>wall_22</item>
+        <item>wall_23</item>
+        <item>wall_24</item>
+        <item>wall_25</item>
+        <item>wall_26</item>
+        <item>wall_27</item>
+        <item>wall_28</item>
+        <item>secret_wall</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>CoDeNaMe</item>
-        <item>CoDeNaMe</item>
-        <item>CoDeNaMe</item>
-        <item>CoDeNaMe</item>
-        <item>CoDeNaMe</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
-        <item>LordGarlicbeard</item>
+        <item>Merry Christmas by XY :: Vicino</item>
+        <item>Merry Christmas by XY :: Vicino</item>
+        <item>Bluewall</item>
+        <item>Bluewall</item>
+        <item>Bluewall</item>
+        <item>Vicino</item>
+        <item>Vicino</item>
+        <item>Vicino</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>reggie cheeks</item>
+        <item>_-_-_ ERUDITO _-_-_</item>
     </string-array>
 </resources>

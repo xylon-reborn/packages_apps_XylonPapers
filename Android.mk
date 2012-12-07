@@ -24,6 +24,6 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4
 
-LOCAL_PACKAGE_NAME := CNAWallpapers
+LOCAL_PACKAGE_NAME := Xylonpapers
 
 include $(BUILD_PACKAGE)

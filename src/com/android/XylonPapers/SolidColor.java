@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.CNAWallpapers;
+package com.android.xylonpapers;
 
 import android.app.Activity;
 import android.app.AlertDialog;
