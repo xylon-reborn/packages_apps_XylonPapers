@@ -17,8 +17,7 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>christmas_1</item>
-        <item>christmas_2</item>
+        <item>wall_xmas_1</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
@@ -50,12 +49,11 @@
         <item>wall_26</item>
         <item>wall_27</item>
         <item>wall_28</item>
-        <item>secret_wall</item>
+        <item>wall_erudito_hack</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Merry Christmas by XY :: Vicino</item>
-        <item>Merry Christmas by XY :: Vicino</item>
+        <item>Merry Christmas by XY Vicino</item>
         <item>Bluewall</item>
         <item>Bluewall</item>
         <item>Bluewall</item>
@@ -87,6 +85,6 @@
         <item>reggie cheeks</item>
         <item>reggie cheeks</item>
         <item>reggie cheeks</item>
-        <item>_-_-_ ERUDITO _-_-_</item>
+        <item>_-_-_</item>
     </string-array>
 </resources>
