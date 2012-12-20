@@ -17,10 +17,13 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>wall_nex4</item>
         <item>wall_xmas_1</item>
-        <item>wallpaper_1</item>
-        <item>wallpaper_2</item>
-        <item>wallpaper_3</item>
+        <item>wallx_1</item>
+        <item>wallx_2</item>
+        <item>wallx_3</item>
+        <item>wallx_4</item>
+        <item>wallx_5</item>
         <item>wall_1</item>
         <item>wall_2</item>
         <item>wall_3</item>
@@ -30,61 +33,26 @@
         <item>wall_7</item>
         <item>wall_8</item>
         <item>wall_9</item>
-        <item>wall_10</item>
-        <item>wall_11</item>
-        <item>wall_12</item>
-        <item>wall_13</item>
-        <item>wall_14</item>
-        <item>wall_15</item>
-        <item>wall_16</item>
-        <item>wall_17</item>
-        <item>wall_18</item>
-        <item>wall_19</item>
-        <item>wall_20</item>
-        <item>wall_21</item>
-        <item>wall_22</item>
-        <item>wall_23</item>
-        <item>wall_24</item>
-        <item>wall_25</item>
-        <item>wall_26</item>
-        <item>wall_27</item>
-        <item>wall_28</item>
         <item>wall_erudito_hack</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Merry Christmas by XY Vicino</item>
-        <item>Bluewall</item>
-        <item>Bluewall</item>
-        <item>Bluewall</item>
-        <item>Vicino</item>
-        <item>Vicino</item>
-        <item>Vicino</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
-        <item>reggie cheeks</item>
+        <item>:: XYLON ::</item>
+        <item>:: Merry Xmas! ::</item>
+        <item>:: MkDon ::</item>
+        <item>:: MkDon ::</item>
+        <item>:: MkDon ::</item>
+        <item>:: MkDon ::</item>
+        <item>:: MkDon ::</item>
+        <item>:: Vicino ::</item>
+        <item>:: Vicino ::</item>
+        <item>:: Vicino ::</item>
+        <item>:: reggie cheeks ::</item>
+        <item>:: reggie cheeks ::</item>
+        <item>:: reggie cheeks ::</item>
+        <item>:: reggie cheeks ::</item>
+        <item>:: reggie cheeks ::</item>
+        <item>:: reggie cheeks ::</item>
         <item>_-_-_</item>
     </string-array>
 </resources>
